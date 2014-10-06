@@ -1,4 +1,4 @@
 domaincheck
 ===========
 
-Parses list of IP addresses to produce output for hosting provider information
+Parse domains and grab current hosting provider
